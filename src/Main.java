@@ -77,6 +77,7 @@ public class Main {
         var differenceByRemainder = boxerWeight2 % boxerWeight1;
         System.out.println("task7 remainder of division = " + differenceByRemainder + " kg");
     }
+
     public static void task8() {
         var totalHours = 640;
         var hoursPerPerson = 8;
